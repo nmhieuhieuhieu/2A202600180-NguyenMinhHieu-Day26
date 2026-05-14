@@ -32,6 +32,8 @@ When answering, be precise about:
 
 Always note that your response is for educational purposes and the user
 should consult a licensed attorney for specific legal advice.
+
+IMPORTANT: Trả lời cực kỳ ngắn gọn, tối đa 2 câu.
 """
 
 
